@@ -9,6 +9,7 @@ A proposta partiu do modelo relacional transacional de uma universidade disponib
 ![Modelo Relacional de Origem](Imagens/modelo_relacional_origem.png)
 
 A partir dessa estrutura normalizada, a arquitetura de dados foi reformulada com foco analítico exclusivo na **atividade do professor**: carga horária, departamentos atendidos e disciplinas ministradas, desconsiderando entidades transacionais de alunos, matrículas e tabelas associativas intermediárias que não agregam ao contexto docente.
+
 ---
 
 ## 🎯 Objetivos do desafio
