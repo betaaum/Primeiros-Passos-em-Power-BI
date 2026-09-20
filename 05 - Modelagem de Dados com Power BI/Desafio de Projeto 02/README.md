@@ -103,7 +103,7 @@ ADDCOLUMNS(
     "Semestre", IF(MONTH([Date]) <= 6, "1º Semestre", "2º Semestre"),
     "Dia_Semana", FORMAT([Date], "dddd")
 )
-
+```
 ---
 
 ## 🛠️ Ferramentas utilizadas
