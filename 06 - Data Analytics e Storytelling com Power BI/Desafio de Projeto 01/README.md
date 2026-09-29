@@ -2,7 +2,7 @@
 
 ## 📌 Sobre o desafio
 
-O objetivo foi reformular o relatório financeiro do **módulo 3** desenvolvido no Power BI utilizando a base de dados **Financials Sample**, aplicando princípios essenciais de Design, Usabilidade e Experiência do Usuário (UX/UI).
+O objetivo foi reformular o relatório financeiro do [**módulo 3**](https://github.com/betaaum/Primeiros-Passos-em-Power-BI/tree/main/03%20-%20Visualiza%C3%A7%C3%A3o%20de%20Dados%20e%20Relat%C3%B3rios%20com%20Power%20BI) desenvolvido no Power BI utilizando a base de dados **Financials Sample**, aplicando princípios essenciais de Design, Usabilidade e Experiência do Usuário (UX/UI).
 
 O projeto focou no aprimoramento do layout por meio de posicionamento estratégico de elementos visuais, contraste balanceado, proporção harmônica e implementação de um menu de navegação lateral padronizado entre as páginas. Além da reestruturação das páginas existentes, foi desenvolvida uma terceira página com matriz hierárquica detalhada de vendas e períodos.
 
