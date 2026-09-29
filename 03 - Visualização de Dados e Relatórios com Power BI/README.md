@@ -32,7 +32,7 @@ A primeira página apresenta uma visão geral dos resultados financeiros, inclui
 
 Também foram utilizados gráficos para análise das vendas por diferentes dimensões.
 
-![Relatório de Vendas](Imagens/pagina-sales.jpg)
+![Relatório de Vendas](Imagens/pagina-report.jpg)
 
 ### Página 2 — Report de Lucro Detalhado
 
@@ -50,7 +50,7 @@ Foram utilizados:
 
 A página permite analisar o lucro por **ano, país, produto, segmento e trimestre**.
 
-![Report de Lucro Detalhado](Imagens/pagina-report.jpg)
+![Report de Lucro Detalhado](Imagens/pagina-profit.jpg)
 
 ---
 
