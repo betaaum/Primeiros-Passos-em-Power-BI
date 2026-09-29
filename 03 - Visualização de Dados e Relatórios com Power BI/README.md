@@ -32,6 +32,8 @@ A primeira página apresenta uma visão geral dos resultados financeiros, inclui
 
 Também foram utilizados gráficos para análise das vendas por diferentes dimensões.
 
+![Relatório de Vendas](Imagens/pagina-sales.jpg)
+
 ### Página 2 — Report de Lucro Detalhado
 
 A segunda página foi desenvolvida conforme a proposta do desafio, com foco na análise detalhada do lucro.
@@ -47,6 +49,8 @@ Foram utilizados:
 - Filtros por ano e país.
 
 A página permite analisar o lucro por **ano, país, produto, segmento e trimestre**.
+
+![Report de Lucro Detalhado](Imagens/pagina-report.jpg)
 
 ---
 
