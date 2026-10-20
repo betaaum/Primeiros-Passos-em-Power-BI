@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="logo-universia.jpg" width="300">
+</p>
+
 # Universia - Primeiros Passos em Power BI 
 
 ## Detalhes do bootcamp
